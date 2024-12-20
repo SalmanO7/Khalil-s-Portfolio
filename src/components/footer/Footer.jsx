@@ -47,7 +47,7 @@ const Footer = () => {
           <CiLinkedin />
         </a>
         <a
-          href="https://github.com/Khalil-Flutter"
+          href="https://github.com/Build-With-Khalil"
           className="footer-social-link"
           target="blank"
         >

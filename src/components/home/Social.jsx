@@ -21,7 +21,7 @@ const Social = () => {
         <CiLinkedin />
       </a>
       <a
-        href="https://github.com/Khalil-Flutter"
+        href="https://github.com/Build-With-Khalil"
         className="home-social-icon"
         target="blank"
       >
